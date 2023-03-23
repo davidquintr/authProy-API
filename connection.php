@@ -1,6 +1,6 @@
 <?php
 
-$dbName = "authExample";
+$dbName = "dbuca";
 $userAuth = "root";
 $passAuth = "";
 $serverIp = "localhost";
